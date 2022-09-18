@@ -38,3 +38,6 @@ Average Case
 [2,3,4,8,7,9,5,15,6]
 [2,3,4,5,7,9,8,15,6]
 
+PatikaDev profilim (https://app.patika.dev/erdemmentes)
+
+[https://www.patika.dev]
